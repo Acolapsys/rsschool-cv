@@ -49,9 +49,9 @@ const fizzbuzz = (n) => {
 
 ## Education
 
-Self-learning. Some online courses on [http://Stepik.org] 
+Self-learning. Some online courses on [Stepik.org](http://Stepik.org)   
 
-[Certificates on Stepik.org:](https://stepik.org/users/273460909/certificates?utm_campaign=moikrug&utm_medium=moikrug&utm_source=moikrug.ru)
+[Certificates on Stepik.org](https://stepik.org/users/273460909/certificates?utm_campaign=moikrug&utm_medium=moikrug&utm_source=moikrug.ru)
 
 
 
