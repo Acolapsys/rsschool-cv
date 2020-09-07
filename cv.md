@@ -18,6 +18,8 @@ Easy learning, like to got new skills.
 My family is the most important thing in my life, and all i do, i do it for them.
 I like sport and go to gym 3 times in a week.
 
+----
+
 
 ## Skills
 
@@ -25,6 +27,8 @@ I like sport and go to gym 3 times in a week.
 - Preprocessors: Pug, SCSS
 - Metodologies: BEM, OOP
 - Git 
+
+----
 
 ## Code Example
 ```sh
@@ -41,12 +45,16 @@ const fizzbuzz = (n) => {
 }
 ```
 
+---
+
 
 ## Education
 
 Self-learning. Some online courses on Stepik.org 
 
 Certificates: https://stepik.org/users/273460909/certificates?utm_campaign=moikrug&utm_medium=moikrug&utm_source=moikrug.ru
+
+---
 
 ## English
 
