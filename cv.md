@@ -2,10 +2,10 @@
 
 ## Contacts 
 
-tel:+7-950-447-5670  
-t.me/Acolapsys  
+tel: +7-950-447-5670  
+telegram: t.me/Acolapsys  
 email: timur_sh@bk.ru  
-vk.com/sh0man82  
+VK: vk.com/sh0man82  
 github: @Acolapsys  
 
 
