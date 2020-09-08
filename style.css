@@ -40,6 +40,8 @@ body {
 
 .header {
     /* height: 100px; */
+    background: rgba(0, 0, 0, 0.1);
+    padding-bottom: 50px;
 
 }
 .header__container {
@@ -109,6 +111,7 @@ body {
 
 .contacts {
     padding: 20px 0;
+    background: rgba(0, 0, 0, 0.05);
 }
 
 .contacts__item {
