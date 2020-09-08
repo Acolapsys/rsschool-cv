@@ -33,7 +33,7 @@ section {
   position: absolute;
   content: "";
   left: 0;
-  bottom: -10px;
+  bottom: -15px;
   height: 2px;
   width: 60px;
   background-color: grey;
@@ -49,6 +49,8 @@ section {
   display: flex;
   align-items: center;
   justify-content: flex-end;
+
+
 }
 .header__logo {
   font-family: sans-serif;
@@ -124,9 +126,7 @@ section {
 .skills {
     background: rgba(0, 0, 0, 0.1);
 }
-.skills__list {
-    
-}
+
 .skills__type {
     font-weight: bold;
 }
