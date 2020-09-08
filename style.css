@@ -134,3 +134,19 @@ section {
     font-size: 18px;
 }
 /* Skills section end */
+
+/* Example section start */
+
+.example__content pre {
+    display: block;
+
+    margin-left: 100px;
+    padding-top: 50px;
+    border-radius: 20px;
+
+
+    background: rgba(0, 0, 0, 0.1);
+}
+
+
+/* Example section end */
