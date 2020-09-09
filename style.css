@@ -88,13 +88,13 @@ section {
 
 .header__content {
   margin: 80px 0;
-  max-width: 900px;
+  /* max-width: 900px; */
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
 }
 .header__img {
-  padding-left: 100px;
+  /* padding-left: 100px; */
   height: 400px;
 }
 .header__info {
